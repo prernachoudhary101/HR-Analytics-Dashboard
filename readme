@@ -1,0 +1,95 @@
+# HR Analytics Dashboard
+
+## 📊 Project Overview
+
+This project presents an **HR Analytics Dashboard** designed to analyze employee data and uncover insights related to **attrition, demographics, salary distribution, age, tenure, and job roles**. The dashboard helps HR teams and management make **data‑driven decisions** to improve employee retention and workforce planning.
+
+---
+
+## 🎯 Objectives
+
+* Monitor overall employee strength and attrition
+* Identify key factors contributing to employee attrition
+* Analyze attrition by **age, education, salary, job role, and years at company**
+* Provide actionable insights for HR strategy and retention planning
+
+---
+
+## 📌 Key Metrics
+
+* **Total Employees:** 1470
+* **Employees Left (Attrition):** 237
+* **Attrition Rate:** 16%
+* **Average Age:** 37 years
+* **Average Salary:** 6.5K
+* **Average Years at Company:** 7.01
+* **Gender Distribution:** Male vs Female
+
+---
+
+## 📈 Dashboard Insights
+
+### 1. Attrition Analysis
+
+* **By Education:** Life Sciences and Medical backgrounds show higher attrition
+* **By Age Group:** Highest attrition observed in the 26–35 age group
+* **By Salary:** Employees earning up to 5K have the highest attrition
+* **By Years at Company:** Maximum attrition occurs in the early years of employment
+* **By Job Role:** Laboratory Technicians and Sales Executives show higher attrition
+
+### 2. Workforce Demographics
+
+* Gender distribution across the organization
+* Average age and tenure insights
+
+---
+
+## 🛠 Tools & Technologies
+
+* **Power BI** – Dashboard creation and visualization
+* **Dataset:** HR Employee Attrition dataset
+* **Data Analysis Techniques:** Aggregation, filtering, segmentation, KPIs
+
+---
+
+## 📂 Files Included
+
+* Power BI dashboard file (`.pbix`)
+* Dashboard screenshot
+* README documentation
+
+---
+
+## 🚀 How to Use
+
+1. Open the `.pbix` file in **Power BI Desktop**
+2. Explore interactive filters (department, gender, job role)
+3. Analyze attrition trends and key HR metrics
+
+---
+
+## 📌 Use Case
+
+* HR analytics and reporting
+* Workforce planning
+* Employee retention strategy
+* Academic and portfolio project
+
+---
+
+## 👤 Author
+
+**Prerna Choudhary**
+Academic Project – HR Analytics
+
+---
+
+## ⭐ Highlights
+
+* Clean and interactive dashboard design
+* Business‑focused KPIs
+* Practical HR insights for decision‑making
+
+---
+
+Feel free to ⭐ this repository if you find it useful!
