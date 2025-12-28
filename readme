@@ -54,19 +54,12 @@ This project presents an **HR Analytics Dashboard** designed to analyze employee
 
 ## 📂 Files Included
 
-* Power BI dashboard file (`.pbix`)
 * Dashboard screenshot
 * README documentation
 
 ---
 
-## 🚀 How to Use
 
-1. Open the `.pbix` file in **Power BI Desktop**
-2. Explore interactive filters (department, gender, job role)
-3. Analyze attrition trends and key HR metrics
-
----
 
 ## 📌 Use Case
 
