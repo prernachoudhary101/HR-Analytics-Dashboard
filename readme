@@ -1,12 +1,12 @@
 # HR Analytics Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 This project presents an **HR Analytics Dashboard** designed to analyze employee data and uncover insights related to **attrition, demographics, salary distribution, age, tenure, and job roles**. The dashboard helps HR teams and management make **data‑driven decisions** to improve employee retention and workforce planning.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Monitor overall employee strength and attrition
 * Identify key factors contributing to employee attrition
@@ -15,7 +15,7 @@ This project presents an **HR Analytics Dashboard** designed to analyze employee
 
 ---
 
-## 📌 Key Metrics
+##  Key Metrics
 
 * **Total Employees:** 1470
 * **Employees Left (Attrition):** 237
@@ -27,7 +27,7 @@ This project presents an **HR Analytics Dashboard** designed to analyze employee
 
 ---
 
-## 📈 Dashboard Insights
+## Dashboard Insights
 
 ### 1. Attrition Analysis
 
@@ -44,7 +44,7 @@ This project presents an **HR Analytics Dashboard** designed to analyze employee
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 * **Power BI** – Dashboard creation and visualization
 * **Dataset:** HR Employee Attrition dataset
@@ -52,7 +52,7 @@ This project presents an **HR Analytics Dashboard** designed to analyze employee
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 * Dashboard screenshot
 * README documentation
@@ -61,28 +61,30 @@ This project presents an **HR Analytics Dashboard** designed to analyze employee
 
 
 
-## 📌 Use Case
+## Use Case
 
-* HR analytics and reporting
-* Workforce planning
-* Employee retention strategy
-* Academic and portfolio project
+This dashboard can be used by HR and management teams to:
+Monitor attrition trends
+Identify high-risk employee segments
+Design data-driven retention and workforce planning strategies
 
 ---
 
-## 👤 Author
+##  Author
 
 **Prerna Choudhary**
-Academic Project – HR Analytics
+Portfolio Project – HR Analytics
 
 ---
 
-## ⭐ Highlights
+##  Highlights
 
 * Clean and interactive dashboard design
 * Business‑focused KPIs
 * Practical HR insights for decision‑making
 
 ---
-
-Feel free to ⭐ this repository if you find it useful!
+## Business Impact
+Helps HR teams identify attrition-prone employee segments
+Supports targeted retention initiatives for high-risk roles
+Enables leadership to monitor workforce stability using KPIs
