@@ -1,0 +1,4 @@
+## 📂 Dataset Information
+The dataset used in this project is a publicly available HR analytics dataset commonly used for learning and practice.  
+The original source was not specified at the time of use.  
+This project is intended for educational and portfolio demonstration purposes only.
